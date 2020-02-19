@@ -9,4 +9,4 @@
 </pre>
 
 ## HOW TO USE
-please follow this <a href="https://asciinema.org/a/288170">link</a> to ascinemaa.
+<pre>please follow this <a href="https://asciinema.org/a/288170">link</a> to ascinemaa.</pre>
