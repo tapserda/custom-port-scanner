@@ -38,6 +38,5 @@ while choice is not True:
 	exit()
    else:
 	print("Wrong Number!")
-	clear()
 
 
